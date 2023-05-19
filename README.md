@@ -66,13 +66,8 @@
 </p>
 
 ---
-<div id="user-content-toc">
-  <ul>
-<summary  style="display: inline-block;">
-## Stargazers
-  </summary>
-  </ul>
-</div>
+
+# Stargazers
 [![Stargazers repo roster for @vagabondachi/vagabondachi.git](https://reporoster.com/stars/vagabondachi/vagabondachi.git)](https://github.com/vagabondachi/vagabondachi.git/stargazers)
 <!--
 **vagabondachi/vagabondachi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
