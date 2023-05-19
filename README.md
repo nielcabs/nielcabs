@@ -1,5 +1,4 @@
 <div id="user-content-toc">
-  <ul>
 <summary  style="display: inline-block;">
 <img src="https://i.imgur.com/T0bDOob.png" width="15%" align='left'>
   <h1 style="border-bottom: none;"> PEARLY BRUNO </h1>
@@ -60,5 +59,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 </summary>
-  </ul>
 </div>
