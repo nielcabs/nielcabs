@@ -1,4 +1,4 @@
-# <p>Hello 👋, I'm Juniel Cabo 🎯️🚀️</p>
+# <p style="border-bottom: none;">Hello 👋, I'm Juniel Cabo 🎯️🚀️</p>
 <h3 align="center"style="border-bottom: none;">Aspiring Full Stack Developer.</h3>
 
 
