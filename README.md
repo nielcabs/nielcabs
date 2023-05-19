@@ -1,8 +1,7 @@
-<div id="user-content-toc">
-  <ul>
-<summary  style="display: inline-block;">
 <h1 style="border-bottom: none;">Hello 👋, I'm Juniel Cabo 🎯️🚀️</h1>
 <h3 align="center"style="border-bottom: none;">Aspiring Full Stack Developer.</h3>
+
+
 <img align="right" alt="coding" width="300" src="https://media.giphy.com/media/lP8xu5t2DLGG045H8F/giphy.gif">
 
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> **About Me:**
@@ -70,6 +69,3 @@
 	    <br />
 	</ul>
 </details>
-</summary>
-  </ul>
-</div>
