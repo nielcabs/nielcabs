@@ -1,5 +1,4 @@
-<h1>Hello 👋, I'm Juniel Cabo 🎯️🚀️</h1>
-<h3 align="center">Aspiring Full Stack Developer.</h3>
+<h1>Hello 👋, I'm Juniel Cabo 🎯️🚀️\n Aspiring Full Stack Developer</h1>
 
 <img align="right" alt="coding" width="300" src="https://media.giphy.com/media/lP8xu5t2DLGG045H8F/giphy.gif">
 
