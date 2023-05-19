@@ -26,3 +26,30 @@
   <code><img height="40" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"></code>
   <code><img height="40" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"></code>
 </p>
+
+---
+
+<h3 align="center">🔥 My Contribution Streak 🔥</h3>
+<p align="center">
+  <a href="https://github.com/nielcabs/">
+    <img src="https://user-badge.committers.top/philippines/nielcabs.svg">
+  </a>
+</p>
+
+---
+
+<h3 align="center">💻 My Github Stats 💻</h3>
+<p align="center">
+  <a href="https://github.com/nielcabs/"><img src="https://github-readme-stats.vercel.app/api?username=nielcabs&theme=synthwave&count_private=true"></a>
+</p>
+
+---
+
+<h3 align="center">🤝🏻 Connect with Me 🤝🏻</h3>
+<p align="center">
+<a href="https://nielcabsportfolio.com"><img src="https://img.shields.io/badge/Visit my Portfolio-333333?style=for-the-badge&logo=&logoColor=white"></a>
+<a href="https://www.buymeacoffee.com/nielcabs" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="30"></a>
+</p>
+
+---
+
