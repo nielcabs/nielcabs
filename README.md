@@ -38,6 +38,12 @@
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
 <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
 <img src="https://img.shields.io/badge/Adobe%20XD-FF61F6?style=for-the-badge&logo=adobe-xd&logoColor=white"/>
+<img src="https://img.shields.io/badge/InVision-FF3366?style=for-the-badge&logo=invision&logoColor=white"/>
+<img src="https://img.shields.io/badge/Maze-FFCA28?style=for-the-badge&logo=maze&logoColor=black"/>
+<img src="https://img.shields.io/badge/Google%20Suite-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+<img src="https://img.shields.io/badge/Trello-0079BF?style=for-the-badge&logo=trello&logoColor=white"/>
+<img src="https://img.shields.io/badge/Microsoft%20Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white"/>
+	
 
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=nielcabs&label=Visitors&color=0088cc&style=flat-square" alt="abhinandanraj" /> </p>
