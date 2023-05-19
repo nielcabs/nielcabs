@@ -29,7 +29,11 @@
 <a href="https://linkedin.com/in/nielcabs" target="_blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" alt="nielcabs" /></a>
 <a href="https://github.com/nielcabs" target="_blank"><img align="center" src="https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white" alt="nielcabs" /></a>
 <a href="mailto:junielcabo@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/-Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white" alt="nielcabs" /></a>
-<a href="mailto:junielcabo@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/test-niel-blue?style=for-the-badge&logo=LOGOS" alt="nielcabs" /></a>
+<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+<img src="https://img.shields.io/badge/Unreal%20Engine-313131?style=for-the-badge&logo=unreal-engine&logoColor=white"/>
+<img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white"/>
+
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=nielcabs&label=Visitors&color=0088cc&style=flat-square" alt="abhinandanraj" /> </p>
 
 ## <img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="40"> **Github Stats:**
