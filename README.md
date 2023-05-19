@@ -1,7 +1,7 @@
 
 <img src="https://i.imgur.com/T0bDOob.png" width="15%" align='left'>
-  <h1 style="border-bottom: 0;"> PEARLY BRUNO </h1>
-  <h2 style="border-bottom: 0;"> Digital Designer and Developer </h2>
+  <h1 style="border-bottom: 0px;"> PEARLY BRUNO </h1>
+  <h2 style="border-bottom: 0px;"> Digital Designer and Developer </h2>
 
 &nbsp;
 <h2> My Github Stats 💻</h2>
