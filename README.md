@@ -6,8 +6,13 @@
   </summary>
   </ul>
 </div>
+<div id="user-content-toc">
+  <ul>
+<summary  style="display: inline-block;">
   <h2 style="border-bottom: none;"> Digital Designer and Developer </h2>
-
+  </summary>
+  </ul>
+</div>
 &nbsp;
 <h2> My Github Stats 💻</h2>
 <img src="https://github-readme-stats.vercel.app/api?username=vagabondachi&theme=dracula&count_private=true"width='50%'  align='left'>
