@@ -3,6 +3,9 @@
 <summary  style="display: inline-block;">
 <img src="https://i.imgur.com/T0bDOob.png" width="15%" align='left'>
   <h1 style="border-bottom: none;"> PEARLY BRUNO </h1>
+  </summary>
+  </ul>
+</div>
   <h2 style="border-bottom: none;"> Digital Designer and Developer </h2>
 
 &nbsp;
@@ -59,6 +62,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-</summary>
-  </ul>
-</div>
+
