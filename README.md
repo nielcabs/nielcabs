@@ -1,8 +1,6 @@
 <h1 align="center">Hello 👋, I'm Juniel Cabo 🎯️🚀️</h1>
 <h3 align="center">Aspiring Full Stack Developer.</h3>
-<p align="center">
-  <img src="https://i.pinimg.com/originals/68/8a/7b/688a7bcf20bddb073ab6ef8a96f3a691.gif" width="40">
-</p>
+
 <img align="right" alt="coding" width="300" src="https://media.giphy.com/media/lP8xu5t2DLGG045H8F/giphy.gif">
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> **About Me:**
@@ -39,7 +37,7 @@
  <br />
  <p align="center">
   <a href="https://github.com/nielcabs">
-   <img width="430" align="center" src="https://github-readme-stats.vercel.app/api?username=abhinandanraj&show_icons=true&theme=radical&count_private=true">
+   <img width="430" align="center" src="https://github-readme-stats.vercel.app/api?username=nielcabs&show_icons=true&theme=radical&count_private=true">
   </a>
   <a href="https://github.com/nielcabs/github-readme-stats">
     <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=nielcabs&layout=compact&theme=radical&langs_count=6" />
