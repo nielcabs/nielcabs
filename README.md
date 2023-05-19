@@ -34,8 +34,13 @@
 
 ---
 
+<div id="user-content-toc">
+  <ul>
+<summary  style="display: inline-block;">
 <h3 align="center">💻 Technologies & Tools 💻</h3>
-
+  </summary>
+  </ul>
+</div>
 <p align="center">
   <img src="https://img.shields.io/badge/NEXT.JS-333333?style=for-the-badge&logo=next.js&logoColor=white"/>&nbsp;
   <img src="https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white"/>&nbsp;
@@ -48,16 +53,26 @@
   <img src="https://img.shields.io/badge/php-474A8A?style=for-the-badge&logo=php&logoColor=white"/>
 </p>
 
-
+<div id="user-content-toc">
+  <ul>
+<summary  style="display: inline-block;">
 <h3 align="center"> Connect with Me 🤝🏻</h3>
+  </summary>
+  </ul>
+</div>
 <p align="center">
 <a href="https://pearlybruno.com"><img src="https://img.shields.io/badge/Visit my Portfolio-333333?style=for-the-badge&logo=&logoColor=white"></a>
 <a href="https://www.buymeacoffee.com/nielcabs" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="30"></a>
 </p>
 
 ---
+<div id="user-content-toc">
+  <ul>
+<summary  style="display: inline-block;">
 ## Stargazers
-
+  </summary>
+  </ul>
+</div>
 [![Stargazers repo roster for @vagabondachi/vagabondachi.git](https://reporoster.com/stars/vagabondachi/vagabondachi.git)](https://github.com/vagabondachi/vagabondachi.git/stargazers)
 <!--
 **vagabondachi/vagabondachi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
