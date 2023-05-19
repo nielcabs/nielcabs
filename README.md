@@ -31,9 +31,9 @@
 <a href="mailto:junielcabo@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/-Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white" alt="nielcabs" /></a>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=nielcabs&label=Visitors&color=0088cc&style=flat-square" alt="abhinandanraj" /> </p>
 <h5>Front end Development</h5>
-    <img src="https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white"/>&nbsp;
-    <img src="https://img.shields.io/badge/REACT JS-lightblue?style=for-the-badge&logo=react&logoColor=black"/>&nbsp;
-    <img src="https://img.shields.io/badge/SASS-cc6699?style=for-the-badge&logo=SASS&logoColor=white"/>&nbsp;
+    <img src="https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white"/>
+    <img src="https://img.shields.io/badge/REACT JS-lightblue?style=for-the-badge&logo=react&logoColor=black"/>
+    <img src="https://img.shields.io/badge/SASS-cc6699?style=for-the-badge&logo=SASS&logoColor=white"/>
     <img src="https://img.shields.io/badge/Javascript-f0db4f?style=for-the-badge&logo=Javascript&logoColor=black"/>
   <h5>Back end Development</h5>
     <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
