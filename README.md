@@ -71,4 +71,4 @@
 </details>
 ## Stargazers
 
-[![Stargazers repo roster for @your-username/your-repo](https://reporoster.com/stars/nielcabs/nielcabs)](https://github.com/nielcabs/nielcabs/stargazers)
+[![Stargazers repo roster for @nielcabs/nielcabs](https://reporoster.com/stars/nielcabs/nielcabs)](https://github.com/nielcabs/nielcabs/stargazers)
