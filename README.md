@@ -18,13 +18,15 @@
 <h3 align="center">💻 Technologies & Tools 💻</h3>
 
 <p align="center">
-  <code><img height="40" src="https://img.shields.io/badge/Javascript-f7df1e?style=for-the-badge&logo=Javascript&logoColor=black"></code>
-  <code><img height="40" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white"></code>
-  <code><img height="40" src="https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black"></code>
-  <code><img height="40" src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"></code>
-  <code><img height="40" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"></code>
-  <code><img height="40" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"></code>
-  <code><img height="40" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"></code>
+  <img src="https://img.shields.io/badge/NEXT.JS-333333?style=for-the-badge&logo=next.js&logoColor=white"/>&nbsp;
+  <img src="https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white"/>&nbsp;
+  <img src="https://img.shields.io/badge/REACT JS-lightblue?style=for-the-badge&logo=react&logoColor=black"/>&nbsp;
+  <img src="https://img.shields.io/badge/CSS3-264de4?style=for-the-badge&logo=css3&logoColor=white"/>&nbsp;
+  <img src="https://img.shields.io/badge/SASS-cc6699?style=for-the-badge&logo=SASS&logoColor=white"/>&nbsp;
+  <img src="https://img.shields.io/badge/Javascript-f0db4f?style=for-the-badge&logo=Javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Node.JS-3C873A?style=for-the-badge&logo=node.js&logoColor=white"/>&nbsp;
+  <img src="https://img.shields.io/badge/Express-333333?style=for-the-badge&logo=express&logoColor=white"/>&nbsp;
+  <img src="https://img.shields.io/badge/php-474A8A?style=for-the-badge&logo=php&logoColor=white"/>
 </p>
 
 ---
